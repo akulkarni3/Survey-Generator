@@ -21,14 +21,14 @@ Limitation:
 
 Installation:
 ----------------
-//Debian Linux
 1. sudo apt-get install python pip
 2. sudo pip install XlsxWriter
 
 Execution:
 ----------------
-1. chmod +x survey-generator.py
-2. ./survey-generator.py names.txt {OR python survey-generator.py names.txt}
+1. $ chmod +x survey-generator.py
+2. $ ./survey-generator.py names.txt
+3. ||or|| $ python survey-generator.py names.txt 
 3. Follow the on-screen instructions
 
 Output:
